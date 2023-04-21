@@ -8,5 +8,5 @@ I'm a recent graduate from the Univerity of South Florida, with a BS in Business
 
 - Visualization tools: Tableau, Microsoft PowerBI.
 
- 📫 Connect with through my LinkedIN
+ 📫 Connect with me through my LinkedIn
 
